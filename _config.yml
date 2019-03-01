@@ -11,11 +11,11 @@ permalink:           pretty
 title:            Codinfox
 tagline:          'Learning to be Giant.'
 description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
-url:              http://codinfox.github.io
+url:              http://lilygeek.github.io
 
 author:
-  name:           'Your Name'
-  url:            http://codinfox.github.io
+  name:           'Li Liu'
+  url:            http://lilygeek.github.io
   gravatar:       https://en.gravatar.com/yourname
   photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
   introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
