@@ -1,5 +1,5 @@
 # Dependencies
-markdown:            redcarpet
+markdown:            Kramdown
 highlighter:         rouge
 # Permalinks
 #
@@ -16,8 +16,8 @@ author:
   name:           'Li Liu'
   url:            http://lilygeek.github.io
   gravatar:       https://en.gravatar.com/yourname
-  photo:          http://2.gravatar.com/avatar/00000000000000000000000000000000?size=350
-  introduction:   'Some introduction words that will be displayed under the avatar. You may include HTML <a href="#">here</a>.'
+  photo:          /public/imgs/avatar.JPG
+  introduction:   'Graduated from the School of Software at Tsinghua University. Now persuing PhD degree in Computer Science and Engineering at Michigan State University.'
 
 paginate:         5
 paginate_path:    '/blog/page:num'
