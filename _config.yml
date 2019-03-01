@@ -8,9 +8,9 @@ highlighter:         pygments
 permalink:           pretty
 
 # Setup
-title:            Codinfox
-tagline:          'Learning to be Giant.'
-description:      'Blog of YourName. Here are some technical stuff. Some notes about development.'
+title:            Secret Garden
+tagline:          'Let memory blossom with fragrance'
+description:      'For personal archiving.'
 url:              http://lilygeek.github.io
 
 author:
