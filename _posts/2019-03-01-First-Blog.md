@@ -5,122 +5,45 @@ comments: true
 category: Daily
 ---
 
+一不留神，度过了好长一段糟糕的日子，大概有将近一年的时间，但若要细细追究起来，其实一切的种子在很早之前就埋下了。那些痛苦的压抑的点滴曾经只是不经意地在流水样的日子里如幽灵般出没，然后剥茧抽丝地隐没。没想到积年下来，竟变成了如此惊人的样子。
+
+在过去这一年，我花费了很多时间生病、沉睡、为自己恸哭、自怨自艾，一边肆意浪费着青春时光，一边懊悔不已。看着同龄人在红尘中拼杀，而自己躲在自己筑就的沙盒中，成为一个彻底的旁观者。
+
+于是在某一天，一场意外且倒霉的车祸中，更多一层的阴云笼罩在我的眼前。就在我脆弱的不堪一击的自尊心的废墟之上，最后的一根稻草轻轻落了下来。轰，我听到一声来自心底的巨响。是夜，难以入眠的我，悄悄翻阅了好几位朋友近年来在各种互联网平台上留下的痕迹，那些过于具体的记录，字里行间都是热火朝天的生活感，原来，大家都那么努力地生活过呀。那我呢？我却对过去的几年有些模糊了，或者说，那里原本就空无一物。一具空壳过着空无一物的生活……实在无法不为自己觉得可叹，可悲。
+
+悔之晚矣。悔之可及。过去的空洞永远也填补不了了，但我也无法放任自己继续被空洞侵噬。于是重整这个账号，开启这一亩小小的空间，对以后的生活权做记录。希望再次在记忆中摸索时，能摸到些残根断垣，便也知足了。
+
+#### 今日事
+
+*与Pattern Recognition课的小组meeting并确定了大作业的topic，是做human face emotion classification，数据集已经找到，等待老师的反馈，接下来需要读一读这个方向的benchmark和state of the art了。
+*花费一个下午重新搭建了github的个人主页（其实不过是改了改别人的模板，算什么搭建，笑，之前的web小学期怕是白学了），希望以后可以坚持记录自己，多多思考，不要轻易放弃。
+*继续学习了法语音素，现在想来颇为后悔当初还在破清的时候没有咬着牙坚持把二外法语的学分修完，虽然现在看到单词居然可以条件反射似的按当时所学读出来，但是上课确实可以高强度、集约式地掌握一门语言的基础。现在完全自学的情况下，只能祈祷自己那点点可怜的语言“天赋”发挥些微作用了。
+
+生活固然乏善可陈，但我又如何能不爱它。
 
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+---
+layout: post
+title: First Blog
+comments: true
+category: Daily
+---
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+一不留神，度过了好长一段糟糕的日子，大概有将近一年的时间，但若要细细追究起来，其实一切的种子在很早之前就埋下了。那些痛苦的压抑的点滴曾经只是不经意地在流水样的日子里如幽灵般出没，然后剥茧抽丝地隐没。没想到积年下来，竟变成了如此惊人的样子。
 
-## Inline HTML elements
+在过去这一年，我花费了很多时间生病、沉睡、为自己恸哭、自怨自艾，一边肆意浪费着青春时光，一边懊悔不已。看着同龄人在红尘中拼杀，而自己躲在自己筑就的沙盒中，成为一个彻底的旁观者。
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+于是在某一天，一场意外且倒霉的车祸中，更多一层的阴云笼罩在我的眼前。就在我脆弱的不堪一击的自尊心的废墟之上，最后的一根稻草轻轻落了下来。轰，我听到一声来自心底的巨响。是夜，难以入眠的我，悄悄翻阅了好几位朋友近年来在各种互联网平台上留下的痕迹，那些过于具体的记录，字里行间都是热火朝天的生活感，原来，大家都那么努力地生活过呀。那我呢？我却对过去的几年有些模糊了，或者说，那里原本就空无一物。一具空壳过着空无一物的生活……实在无法不为自己觉得可叹，可悲。
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+悔之晚矣。悔之可及。过去的空洞永远也填补不了了，但我也无法放任自己继续被空洞侵噬。于是重整这个账号，开启这一亩小小的空间，对以后的生活权做记录。希望再次在记忆中摸索时，能摸到些残根断垣，便也知足了。
 
-Most of these elements are styled by browsers with few modifications on our part.
+#### 今日事
 
-## Heading
+* 与Pattern Recognition课的小组meeting并确定了大作业的topic，是做human face emotion classification，数据集已经找到，等待老师的反馈，接下来需要读一读这个方向的benchmark和state of the art了。
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+* 花费一个下午重新搭建了github的个人主页（其实不过是改了改别人的模板，算什么搭建，笑，之前的web小学期怕是白学了），希望以后可以坚持记录自己，多多思考，不要轻易放弃。
 
-### Code
+* 继续学习了法语音素，现在想来颇为后悔当初还在破清的时候没有咬着牙坚持把二外法语的学分修完，虽然现在看到单词居然可以条件反射似的按当时所学读出来，但是上课确实可以高强度、集约式地掌握一门语言的基础。现在完全自学的情况下，只能祈祷自己那点点可怜的语言“天赋”发挥些微作用了。
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-{% highlight js %}
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
-
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
-
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-### Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-Test math equations:
-
-<p style="color:black">$$ J_\alpha(x) = \sum\limits_{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\bigl({\frac{x}{2}}\bigr)}^{2 m + \alpha} $$</p>
-
+生活固然乏善可陈，但我又如何能不爱它。
